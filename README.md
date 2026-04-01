@@ -76,6 +76,7 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 | 330° | 140 mV | 1.374 dB |
 | 340° | 160 mV | 0.214 dB |
 | 350° | 164 mV | -0.260 dB |
+
 **HORN ANTENNA** 
 
 Parameter	Value
