@@ -95,6 +95,7 @@ Repeller voltage (if applicable) V1	N/A
 Operating frequency	9.00 GHz
 3 dB beamwidth (measured)	8°
 Gain (calculated)	24.5 dBi
+
 **RESULT:**
 
 thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
